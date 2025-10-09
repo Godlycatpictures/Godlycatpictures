@@ -15,7 +15,7 @@ Contact: <ins> **godlycatpictures**</ins> on discord
 - FileZilla - ftp program
 - Xampp - for the php project
 - GitHub Desktop - used both for collaboration and version control
-- Autodesk Maya - _very_ basic knowledge
+- Autodesk Maya - basic knowledge
 - Visual studio community/code - kinda self explanotary
 <!--
 **Godlycatpictures/Godlycatpictures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
