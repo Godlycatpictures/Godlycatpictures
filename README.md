@@ -5,17 +5,17 @@ Here you'll mostly find games made for studies or courses, if they are set to pu
 Contact: godlycatpictures on discord
 
 Can (kinda):
-Unity - mostly 2D but dabbled in some 3D projects
-C# - from Unity projects
-Html/CSS - standard web sites and customization
-JavaScript - very simple for said websites
-PHP - some light backend for a website project
+- Unity - mostly 2D but dabbled in some 3D projects
+- C# - from Unity projects
+- Html/CSS - standard web sites and customization
+- JavaScript - very simple for said websites
+- PHP - some light backend for a website project
 
 Some software info:
-FileZilla - ftp program
-Xampp - for the php project
-GitHub Desktop - used both for collaboration and version control
-Visual studio community/code - kinda self explanotary
+- FileZilla - ftp program
+- Xampp - for the php project
+- GitHub Desktop - used both for collaboration and version control
+- Visual studio community/code - kinda self explanotary
 <!--
 **Godlycatpictures/Godlycatpictures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
