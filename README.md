@@ -2,7 +2,7 @@
 
 Here you'll mostly find games made for studies or courses, if they are set to public (it's easy to forget).
 
-Contact: **godlycatpictures** on discord
+Contact: <ins> **godlycatpictures**</ins> on discord
 
 #### Can (kinda):
 - Unity - mostly 2D but dabbled in some 3D projects
