@@ -2,16 +2,16 @@
 
 Here you'll mostly find games made for studies or courses, if they are set to public (it's easy to forget).
 
-Contact: <ins> **godlycatpictures**</ins> on discord
+Contact: **godlycatpictures** on discord
 
-#### Can (kinda):
+ Can (kinda):
 - Unity - mostly 2D but dabbled in some 3D projects
 - C# - from Unity projects
 - Html/CSS - standard web sites and customization
 - JavaScript - simple for said websites
 - PHP - some light backend for a website project
 
-#### Some software info:
+ Some software info:
 - FileZilla - ftp program
 - Xampp - for the php project
 - GitHub Desktop - used both for collaboration and version control
