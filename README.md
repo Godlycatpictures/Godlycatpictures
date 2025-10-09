@@ -1,8 +1,8 @@
-## almost the best github profile
+## Almost the best github profile
 
-here you'll mostly find games made for studies or courses, if they are set to public (it's easy to forget)
+Here you'll mostly find games made for studies or courses, if they are set to public (it's easy to forget)
 
-cantact on here (not sure hoe that works), or godlycatpictures on discord
+Contact on here (not sure how that works), or godlycatpictures on discord
 
 <!--
 **Godlycatpictures/Godlycatpictures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
