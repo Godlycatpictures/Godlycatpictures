@@ -8,14 +8,14 @@ Contact: <ins> **godlycatpictures**</ins> on discord
 - Unity - mostly 2D but dabbled in some 3D projects
 - C# - from Unity projects
 - Html/CSS - standard web sites and customization
-- JavaScript - very simple for said websites
+- JavaScript - simple for said websites
 - PHP - some light backend for a website project
 
 #### Some software info:
 - FileZilla - ftp program
 - Xampp - for the php project
 - GitHub Desktop - used both for collaboration and version control
-- Autodesk Maya - very basic knowledge
+- Autodesk Maya - _very_ basic knowledge
 - Visual studio community/code - kinda self explanotary
 <!--
 **Godlycatpictures/Godlycatpictures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
