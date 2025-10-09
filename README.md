@@ -11,7 +11,7 @@ Contact: **godlycatpictures** on discord
 - JavaScript - simple for said websites
 - PHP - some light backend for a website project
 
- Some software info:
+ Some software info (mostly know them):
 - FileZilla - ftp program
 - Xampp - for the php project
 - GitHub Desktop - used both for collaboration and version control
