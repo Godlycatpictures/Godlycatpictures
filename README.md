@@ -1,6 +1,8 @@
 ## Almost the best github profile
 
 Here you'll mostly find games made for studies or courses, if they are set to public (it's easy to forget).
+<!--
+**Godlycatpictures/Godlycatpictures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  Can (kinda):
 - Unity - mostly 2D but dabbled in some 3D projects
@@ -15,8 +17,6 @@ Here you'll mostly find games made for studies or courses, if they are set to pu
 - GitHub Desktop - used both for collaboration and version control
 - Autodesk Maya - basic knowledge
 - Visual studio community/code - kinda self explanotary
-<!--
-**Godlycatpictures/Godlycatpictures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
