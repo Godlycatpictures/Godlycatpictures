@@ -1,5 +1,5 @@
 
-Here you'll mostly find games made for fun, studies or courses, if they are set to public (it's easy to forget).
+Here you'll mostly find small games, if they are set to public (it's easy to forget).
 <!--
 **Godlycatpictures/Godlycatpictures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
